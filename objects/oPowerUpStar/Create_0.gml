@@ -1,0 +1,1 @@
+effectDuration = 300; // 5 seconds
